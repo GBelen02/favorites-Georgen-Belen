@@ -1,0 +1,49 @@
+html {
+    background-color: #335E08;
+    background-image: url()
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #9DD962;
+    text-align: center;
+    background-color: #80238C;
+}
+
+h2{
+    text-align: center;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+p {
+    margin: 20px;
+    font-family: fantasy;
+    color: white;   
+}
+
+div.anime{
+    text-align:center;
+    font-style: italic;
+}
+
+.animeimage{
+    height: 20%;
+    width: 20%;
+    padding: 15px;
+    border: 5px ridge rgb(#C83BDB);
+}
+
+div.pokemon {
+    text-align:center;
+    font-style: italic;
+}
+
+.pokemonimage{
+    height: 20%;
+    width: 20%;
+    padding: 10px;
+    border: 5px ridge rgb(#C83BDB);
+}
